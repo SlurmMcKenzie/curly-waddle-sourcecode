@@ -1,0 +1,6 @@
+# view res/layout/main.xml #generated:1
+-keep class .test1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1
+-keep class processing.test.test1.MainActivity { <init>(...); }
+

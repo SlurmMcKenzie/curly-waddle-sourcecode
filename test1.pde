@@ -1,5 +1,5 @@
 size(640, 360);
-background(0);
+background(255);
 noStroke();
 
 fill(204);
